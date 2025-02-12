@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
-<h3 align="center">A passionate software developer from India, currently in Germany</h3>
 
-- 🔭 I’m currently working on [PDA-RobE](https://www.faps.fau.de/curforsch/pda-robe-prozessgesteuertes-durchgaengiges-und-automatisiertes-robotik-engineering/)
 
-- 🌱 I’m currently learning **Convolutional Neural Networks**
+- 🔭 I’m currently working with https://www.nsquared.tf.fau.de/
+
+- 🌱 I’m currently learning **Large Multimodal Models**
 
 - 📫 How to reach me **theutkarshsingh@gmail.com**
 
